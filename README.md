@@ -1,6 +1,8 @@
 # awesome-os-next
 just-build based Awesome OS Distribution - Containing Experiments
 
+https://github.lemanschik.com/chromium-virtual-environments
+
 ## Why?
 I as a Developer wanted to be able to produce next gen Software without all the problems that come with todays Patterns and Methods. 
 I also want to be able to reuse existing code and make it even better most best Automated via AI and or Declarativ CodeMods.
