@@ -1,5 +1,7 @@
 # awesome-os-next
 just-build based Awesome OS Distribution - Containing Experiments
+It also contains components-osjs-hyperapp development as we use it here as outer layer of the UI layout for fun
+in a demo
 
 https://github.lemanschik.com/chromium-virtual-environments
 
